@@ -1,4 +1,4 @@
-package com.self.sprintboot.learning.apigateway;
+package com.howtodoinjava.example.apigateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
