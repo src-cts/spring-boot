@@ -1,0 +1,3 @@
+config:
+  ip: 120.0.0.1
+  serverURL: test/sample/service
