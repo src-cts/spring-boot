@@ -1,0 +1,42 @@
+employeeList:
+  employees:
+  - name: Santa
+    id: 100
+    addresses:
+    - street: 12,ABC ROAD
+      city: Amritsar
+    - street: 13,ABC ROAD
+      city: Ludhiana
+    - street: 14,ABC ROAD
+      city: Jalandhar
+  - name: Banta
+    id: 200
+    addresses:
+    - street: 12,CBA ROAD
+      city: Amritsar
+    - street: 13,CBA ROAD
+      city: Ludhiana
+    - street: 14,CBA ROAD
+      city: Jalandhar
+employeeMap:
+  employees:
+    100:
+      name: Santa
+      id: 100
+      addresses:
+      - street: 12,ABC ROAD
+        city: Amritsar
+      - street: 13,ABC ROAD
+        city: Ludhiana
+      - street: 14,ABC ROAD
+        city: Jalandhar
+    200:
+      name: Banta
+      id: 200
+      addresses:
+      - street: 12,CBA ROAD
+        city: Amritsar
+      - street: 13,CBA ROAD
+        city: Ludhiana
+      - street: 14,CBA ROAD
+        city: Jalandhar
